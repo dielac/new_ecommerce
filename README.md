@@ -2,11 +2,8 @@
 
 A React and TypeScript e-commerce application that demonstrates a complete development workflow including unit tests, integration tests, and a CI/CD pipeline deploying to Vercel.
 
-## Live Demo
 
-[View the live site on Vercel] https://react-commerce-app-seven.vercel.app/#
 
-> Replace `https://your-app-name.vercel.app` with your actual Vercel URL.
 
 ---
 
